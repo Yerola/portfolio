@@ -1,7 +1,7 @@
-# Hello there! I am Emiliano 👋
+# Hello there! I am Yesica Romina Lato 👋
 
 I am a fullstack developer who loves creating beautiful things!
-Feel free to browse through my repositories. May I suggest you start with [GamingHub](https://github.com/Aglowkeys/GamingHub)?
+Feel free to browse through my repositories. May I suggest you start with [Rick&Morty](https://github.com/Yerola/rick-and-morty-henry-api)?
 
 ## My skills include
 
@@ -19,6 +19,6 @@ Feel free to browse through my repositories. May I suggest you start with [Gamin
 
 ## 📫 Get in touch
 
-Reach out to me via mail: emilianoalfonso1989@gmail.com \
-Portfolio: [https://emiliano-alfonso.vercel.app/](https://emiliano-alfonso.vercel.app/) \
-LinkedIn: [https://www.linkedin.com/in/emiliano-alfonso/](https://www.linkedin.com/in/emiliano-alfonso/)
+Reach out to me via mail: ye.lato@gmail.com \
+Portfolio: [https://yesica-lato.vercel.app/](https://yesica-lato.vercel.app/) \
+LinkedIn: [https://www.linkedin.com/in/yesica-lato/](https://www.linkedin.com/in/yesica-lato/)
