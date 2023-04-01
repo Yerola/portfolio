@@ -5,7 +5,7 @@ export const strings: ProjectsStrings = {
     description: 'Here you can see some of the projects I have worked on:',
     buttonRepository: 'See Repository',
     buttonWebsite: 'Visit Website',
-    buttonApp: 'Download the app',
+    buttonApp: 'Visit Website',
     gamingHub: {
       description: 'An e-commerce for selling digital videogames. Built with React, Redux, Express, PostgreSQL, Sequelize, Firebase, and Passport.',
       ariaWebsite: "Visit GamingHub's website",
@@ -36,7 +36,7 @@ export const strings: ProjectsStrings = {
     description: 'A continuación te muestro algunos de los proyectos en los cuales trabajé:',
     buttonRepository: 'Ver Repositorio',
     buttonWebsite: 'Visitar sitio',
-    buttonApp: 'Descargar app',
+    buttonApp: 'Visitar sitio',
     gamingHub: {
       description: 'E-commerce de venta de videojuegos en formato digital. Hecho con React, Redux, Express, PostgreSQL, Sequelize, Firebase y Passport.',
       ariaWebsite: 'Visitar el sitio de GamingHub',
