@@ -12,9 +12,9 @@ export const strings: ProjectsStrings = {
       ariaRepository: "See GamingHub's repository",
     },
     quizMeApp: {
-      description: 'Mobile app where you can answer quizzes from a variety of categories. Built with React Native, MongoDB, and GraphQL. The admin dashboard was made using Next.js and TypeScript.',
-      ariaWebsite: 'Download the QuizMeApp mobile app',
-      ariaRepository: "See QuizMeApp's repository",
+      description: 'This app was made using CSS, HTML, JS, React, and Redux. It consumes the Rick & Morty API and shows us basic information about each character.',
+      ariaWebsite: 'Visit the site of RICK&MORTY',
+      ariaRepository: "See RICK&MORTY's repository",
     },
     weatherApp: {
       description: 'A web app made to search for the weather information of any city in the world. Created using React. The data is fetched from an API.',
@@ -43,9 +43,9 @@ export const strings: ProjectsStrings = {
       ariaRepository: 'Ver el repositorio de GamingHub',
     },
     quizMeApp: {
-      description: 'Aplicación móvil de trivias de diversas categorías. Hecho con React Native, MongoDB y GraphQL. El panel de administración fue hecho con Next.js y TypeScript.',
-      ariaWebsite: 'Descargar la app QuizMeApp',
-      ariaRepository: 'Ver el repositorio de QuizMeApp',
+      description: 'Esta aplicación se realizó utilizando CSS, HTML, JS, React y Redux. Consume la API de Rick & Morty y nos muestra información básica de cada personaje.',
+      ariaWebsite: 'Visitar sitio de RICK&MORTY',
+      ariaRepository: 'Ver el repositorio de RICK&MORTY',
     },
     weatherApp: {
       description: 'Aplicación web para buscar los datos climáticos de cualquier parte del mundo. Creada con React. Los datos son traídos de una API.',
