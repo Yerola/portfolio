@@ -43,13 +43,13 @@ const Projects = () => {
           />
 
           <Project
-            title="QuizMeApp"
+            title="Rick&Morty"
             desc={quizMeApp.description}
             imageSrc={QuizMeApp}
-            websiteLink="https://appgallery.huawei.com/#/app/C103845919"
+            websiteLink="https://rick-and-morty-henry-api.vercel.app/"
             websiteLinkLabel={quizMeApp.ariaWebsite}
             websiteLinkText={s.buttonApp}
-            githubLink="https://github.com/Aglowkeys/QuizmeApp"
+            githubLink="https://github.com/Yerola/rick-and-morty-henry-api"
             githubLinkLabel={quizMeApp.ariaRepository}
             githubLinkText={s.buttonRepository}
           />
@@ -70,10 +70,10 @@ const Projects = () => {
             title="Whiteboard"
             desc={whiteboard.description}
             imageSrc={Whiteboard}
-            websiteLink="https://whiteboard-pi.vercel.app/"
+            websiteLink="https://whiteboard-yl.vercel.app/"
             websiteLinkLabel={whiteboard.ariaWebsite}
             websiteLinkText={s.buttonWebsite}
-            githubLink="https://github.com/Aglowkeys/whiteboard"
+            githubLink="https://github.com/Yerola/whiteboard"
             githubLinkLabel={whiteboard.ariaRepository}
             githubLinkText={s.buttonRepository}
           />
