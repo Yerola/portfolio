@@ -31,13 +31,13 @@ const Projects = () => {
 
         <div className="projects__list">
           <Project
-            title="GamingHub"
+            title="Api Countries"
             desc={gamingHub.description}
             imageSrc={GamingHub}
-            websiteLink="https://ecommerce-ft07-g07.vercel.app"
+            websiteLink="https://pi-countries-yesica-lato.vercel.app/"
             websiteLinkLabel={gamingHub.ariaWebsite}
             websiteLinkText={s.buttonWebsite}
-            githubLink="https://github.com/Aglowkeys/GamingHub"
+            githubLink="https://github.com/Yerola/PI-Countries-yesica-lato"
             githubLinkLabel={gamingHub.ariaRepository}
             githubLinkText={s.buttonRepository}
           />
