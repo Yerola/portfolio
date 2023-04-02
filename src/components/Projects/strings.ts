@@ -8,8 +8,8 @@ export const strings: ProjectsStrings = {
     buttonApp: 'Visit Website',
     gamingHub: {
       description: 'This page contains countries from all over the world, information about them and the possibility of, as a blog, adding tourist activities to the country of your choice.',
-      ariaWebsite: "Visit GamingHub's website",
-      ariaRepository: "See GamingHub's repository",
+      ariaWebsite: "Visit Api Countries's website",
+      ariaRepository: "See Api Countries's repository",
     },
     quizMeApp: {
       description: 'This app was made using CSS, HTML, JS, React, and Redux. It consumes the Rick & Morty API and shows us basic information about each character.',
@@ -28,8 +28,8 @@ export const strings: ProjectsStrings = {
     },
     movye: {
       description: 'A web app made to search for the weather information of any city in the world. Created using React. The data is fetched from an API.',
-      ariaWebsite: "Visit Movye's website",
-      ariaRepository: "See Movye's repository",
+      ariaWebsite: "Visit 2-day-weather's website",
+      ariaRepository: "See 2-day-weather's repository",
     },
   },
   es: {
@@ -39,8 +39,8 @@ export const strings: ProjectsStrings = {
     buttonApp: 'Visitar sitio',
     gamingHub: {
       description: 'Esta página contiene países de todo el mundo, información sobre los mismos y la posibilidad de, cual bitácora, agregarle actividades turísticas al país que se desee.',
-      ariaWebsite: 'Visitar el sitio de GamingHub',
-      ariaRepository: 'Ver el repositorio de GamingHub',
+      ariaWebsite: 'Visitar el sitio de Api Countries',
+      ariaRepository: 'Ver el repositorio de Api Countries',
     },
     quizMeApp: {
       description: 'Esta aplicación se realizó utilizando CSS, HTML, JS, React y Redux. Consume la API de Rick & Morty y nos muestra información básica de cada personaje.',
@@ -59,8 +59,8 @@ export const strings: ProjectsStrings = {
     },
     movye: {
       description: 'Una aplicación web hecha para buscar la información meteorológica de cualquier ciudad del mundo. Creado usando React. Los datos se obtienen de una API.',
-      ariaWebsite: 'Visitar el sitio de Movye',
-      ariaRepository: 'Ver el repositorio de Movye',
+      ariaWebsite: 'Visitar el sitio de 2-day-weather',
+      ariaRepository: 'Ver el repositorio de 2-day-weather',
     },
   },
 };
