@@ -7,7 +7,7 @@ export const strings: ProjectsStrings = {
     buttonWebsite: 'Visit Website',
     buttonApp: 'Visit Website',
     gamingHub: {
-      description: 'An e-commerce for selling digital videogames. Built with React, Redux, Express, PostgreSQL, Sequelize, Firebase, and Passport.',
+      description: 'This page contains countries from all over the world, information about them and the possibility of, as a blog, adding tourist activities to the country of your choice.',
       ariaWebsite: "Visit GamingHub's website",
       ariaRepository: "See GamingHub's repository",
     },
@@ -38,7 +38,7 @@ export const strings: ProjectsStrings = {
     buttonWebsite: 'Visitar sitio',
     buttonApp: 'Visitar sitio',
     gamingHub: {
-      description: 'E-commerce de venta de videojuegos en formato digital. Hecho con React, Redux, Express, PostgreSQL, Sequelize, Firebase y Passport.',
+      description: 'Esta página contiene países de todo el mundo, información sobre los mismos y la posibilidad de, cual bitácora, agregarle actividades turísticas al país que se desee.',
       ariaWebsite: 'Visitar el sitio de GamingHub',
       ariaRepository: 'Ver el repositorio de GamingHub',
     },
