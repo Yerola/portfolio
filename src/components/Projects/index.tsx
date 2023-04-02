@@ -55,13 +55,13 @@ const Projects = () => {
           />
 
           <Project
-            title="Movye"
+            title="2-Day-Weather"
             desc={movye.description}
             imageSrc={Movye}
-            websiteLink="https://movye.vercel.app/"
+            websiteLink="https://2-day-weather.vercel.app/"
             websiteLinkLabel={movye.ariaWebsite}
             websiteLinkText={s.buttonWebsite}
-            githubLink="https://github.com/SantiagoMartinMolina/Movye"
+            githubLink="https://github.com/Yerola/2Day-Weather"
             githubLinkLabel={movye.ariaRepository}
             githubLinkText={s.buttonRepository}
           />
