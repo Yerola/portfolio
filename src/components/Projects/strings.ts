@@ -27,7 +27,7 @@ export const strings: ProjectsStrings = {
       ariaRepository: "See Whiteboard's repository",
     },
     movye: {
-      description: 'Web app where you can search for a movie and see its information, add it to your favorites or your watchlist. Made using Next.js.',
+      description: 'A web app made to search for the weather information of any city in the world. Created using React. The data is fetched from an API.',
       ariaWebsite: "Visit Movye's website",
       ariaRepository: "See Movye's repository",
     },
@@ -58,7 +58,7 @@ export const strings: ProjectsStrings = {
       ariaRepository: 'Ver el repositorio de Whiteboard',
     },
     movye: {
-      description: 'Un proyecto creado con Next.js. Busca información de tu película preferida y agrégala a tus favoritos o a tu watchlist.',
+      description: 'Una aplicación web hecha para buscar la información meteorológica de cualquier ciudad del mundo. Creado usando React. Los datos se obtienen de una API.',
       ariaWebsite: 'Visitar el sitio de Movye',
       ariaRepository: 'Ver el repositorio de Movye',
     },
