@@ -40,8 +40,6 @@ const Projects = () => {
             githubLink="https://github.com/Yerola/gaming-frontend"
             githubLinkLabel={gamingHub.ariaRepository}
             githubLinkText={s.buttonRepository}
-            websiteLinkProps={{ target: "_blank" }}
-            githubLinkProps={{ target: "_blank" }}
           />
 
           <Project
@@ -54,8 +52,6 @@ const Projects = () => {
             githubLink="https://github.com/Yerola/rick-and-morty-henry-api"
             githubLinkLabel={quizMeApp.ariaRepository}
             githubLinkText={s.buttonRepository}
-            websiteLinkProps={{ target: "_blank" }}
-            githubLinkProps={{ target: "_blank" }}
           />
 
           <Project
@@ -68,8 +64,6 @@ const Projects = () => {
             githubLink="https://github.com/Yerola/2Day-Weather"
             githubLinkLabel={movye.ariaRepository}
             githubLinkText={s.buttonRepository}
-            websiteLinkProps={{ target: "_blank" }}
-            githubLinkProps={{ target: "_blank" }}
           />
 
           <Project
@@ -82,8 +76,6 @@ const Projects = () => {
             githubLink="https://github.com/Yerola/whiteboard"
             githubLinkLabel={whiteboard.ariaRepository}
             githubLinkText={s.buttonRepository}
-            websiteLinkProps={{ target: "_blank" }}
-            githubLinkProps={{ target: "_blank" }}
           />
         </div>
       </Container>
