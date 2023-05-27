@@ -8,28 +8,28 @@ export const strings: ProjectsStrings = {
     buttonApp: 'Visit Website',
     gamingHub: {
       description: 'Gaming E-commerce using Next.js, React, Hooks, Strapi, Stripe, AWS, SASS, Formik, Yup and Good Practices.',
-      ariaWebsite: "Visit henry-gaming website",
-      ariaRepository: "See henry-gaming repository",
+      ariaWebsite: 'Visit henry-gaming website',
+      ariaRepository: 'See henry-gaming repository',
     },
     quizMeApp: {
       description: 'This app was made using CSS, HTML, JS, React, and Redux. It consumes the Rick & Morty API and shows us basic information about each character.',
       ariaWebsite: 'Visit the site of RICK&MORTY',
-      ariaRepository: "See RICK&MORTY's repository",
+      ariaRepository: 'See RICK&MORTY repository',
     },
     weatherApp: {
       description: 'A web app made to search for the weather information of any city in the world. Created using React. The data is fetched from an API.',
-      ariaWebsite: "Visit Weather App's website",
-      ariaRepository: "See Weather App's repository",
+      ariaWebsite: 'Visit Weather App website',
+      ariaRepository: 'See Weather App repository',
     },
     whiteboard: {
       description: 'A simple drawing app created in order to learn and practice the usage of HTML Canvas. Made with HTML, CSS and vanilla Javascript.',
-      ariaWebsite: "Visit Whiteboard's website",
-      ariaRepository: "See Whiteboard's repository",
+      ariaWebsite: 'Visit Whiteboard website',
+      ariaRepository: 'See Whiteboard repository',
     },
     movye: {
       description: 'A web app made to search for the weather information of any city in the world. Created using React. The data is fetched from an API.',
-      ariaWebsite: "Visit 2-day-weather's website",
-      ariaRepository: "See 2-day-weather's repository",
+      ariaWebsite: 'Visit 2-day-weather website',
+      ariaRepository: 'See 2-day-weather repository',
     },
   },
   es: {
