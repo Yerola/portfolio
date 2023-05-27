@@ -7,9 +7,9 @@ export const strings: ProjectsStrings = {
     buttonWebsite: 'Visit Website',
     buttonApp: 'Visit Website',
     gamingHub: {
-      description: 'This page contains countries from all over the world, information about them and the possibility of, as a blog, adding tourist activities to the country of your choice.',
-      ariaWebsite: "Visit Api Countries's website",
-      ariaRepository: "See Api Countries's repository",
+      description: 'Gaming E-commerce using Next.js, React, Hooks, Strapi, Stripe, AWS, SASS, Formik, Yup and Good Practices.',
+      ariaWebsite: "Visit henry-gaming website",
+      ariaRepository: "See henry-gaming repository",
     },
     quizMeApp: {
       description: 'This app was made using CSS, HTML, JS, React, and Redux. It consumes the Rick & Morty API and shows us basic information about each character.',
@@ -38,9 +38,9 @@ export const strings: ProjectsStrings = {
     buttonWebsite: 'Visitar sitio',
     buttonApp: 'Visitar sitio',
     gamingHub: {
-      description: 'Esta página contiene países de todo el mundo, información sobre los mismos y la posibilidad de, cual bitácora, agregarle actividades turísticas al país que se desee.',
-      ariaWebsite: 'Visitar el sitio de Api Countries',
-      ariaRepository: 'Ver el repositorio de Api Countries',
+      description: 'Tienda online de video juegos usando Next.js, React, Hooks, Strapi, Stripe, AWS, SASS, Formik, Yup y buenas prácticas.',
+      ariaWebsite: 'Visitar el sitio de henry-gaming',
+      ariaRepository: 'Ver el repositorio de henry-gaming',
     },
     quizMeApp: {
       description: 'Esta aplicación se realizó utilizando CSS, HTML, JS, React y Redux. Consume la API de Rick & Morty y nos muestra información básica de cada personaje.',
