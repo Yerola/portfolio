@@ -34,10 +34,10 @@ const Projects = () => {
             title="henry-gaming"
             desc={gamingHub.description}
             imageSrc={GamingHub}
-            websiteLink="https://henry-gaming.ar/"
+            websiteLink='https://henry-gaming.ar/ target="_blank"'
             websiteLinkLabel={gamingHub.ariaWebsite}
             websiteLinkText={s.buttonWebsite}
-            githubLink="https://github.com/Yerola/gaming-frontend"
+            githubLink='https://github.com/Yerola/gaming-frontend target="_blank"'
             githubLinkLabel={gamingHub.ariaRepository}
             githubLinkText={s.buttonRepository}
           />
@@ -46,10 +46,10 @@ const Projects = () => {
             title="Rick&Morty"
             desc={quizMeApp.description}
             imageSrc={QuizMeApp}
-            websiteLink="https://rick-and-morty-henry-api.vercel.app/"
+            websiteLink='https://rick-and-morty-henry-api.vercel.app/ target="_blank"'
             websiteLinkLabel={quizMeApp.ariaWebsite}
             websiteLinkText={s.buttonApp}
-            githubLink="https://github.com/Yerola/rick-and-morty-henry-api"
+            githubLink='https://github.com/Yerola/rick-and-morty-henry-api target="_blank"'
             githubLinkLabel={quizMeApp.ariaRepository}
             githubLinkText={s.buttonRepository}
           />
@@ -58,10 +58,10 @@ const Projects = () => {
             title="2-Day-Weather"
             desc={movye.description}
             imageSrc={Movye}
-            websiteLink="https://2-day-weather.vercel.app/"
+            websiteLink='https://2-day-weather.vercel.app/ target="_blank"'
             websiteLinkLabel={movye.ariaWebsite}
             websiteLinkText={s.buttonWebsite}
-            githubLink="https://github.com/Yerola/2Day-Weather"
+            githubLink='https://github.com/Yerola/2Day-Weather target="_blank"'
             githubLinkLabel={movye.ariaRepository}
             githubLinkText={s.buttonRepository}
           />
@@ -70,10 +70,10 @@ const Projects = () => {
             title="Whiteboard"
             desc={whiteboard.description}
             imageSrc={Whiteboard}
-            websiteLink="https://whiteboard-yl.vercel.app/"
+            websiteLink='https://whiteboard-yl.vercel.app/ target="_blank"'
             websiteLinkLabel={whiteboard.ariaWebsite}
             websiteLinkText={s.buttonWebsite}
-            githubLink="https://github.com/Yerola/whiteboard"
+            githubLink='https://github.com/Yerola/whiteboard target="_blank"'
             githubLinkLabel={whiteboard.ariaRepository}
             githubLinkText={s.buttonRepository}
           />
